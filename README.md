@@ -7,5 +7,5 @@ This is a large project developed using the STM32L432KC microcontroller and STM3
 The main application logic is written in main.c.
 For reference, see the images/ folder for screenshots of the project settings and configurations.
 
-## See It in Action  
+## Results  
 Check out the results/ folder, it contains images of the system actively detecting and sorting objects by color in real-time. It's visual proof of the project achieving over 85% sorting accuracy with embedded automation
